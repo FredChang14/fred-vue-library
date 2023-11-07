@@ -1,0 +1,2 @@
+# fred-vue-library
+實作Vuejs裡的component和composable經由Vite打包至npm平台
